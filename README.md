@@ -1,2 +1,1 @@
 # programming-competitive
-si
